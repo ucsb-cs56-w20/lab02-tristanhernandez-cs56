@@ -1,4 +1,5 @@
 # STARTER-lab02
+# Heroku deploy is under https://cs56-w20-tristanhernandez-lab2.herokuapp.com, and NOT https://cs56-w20-tristanhernandez-lab02.herokuapp.com due to space limitations
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-tristanhernandez-cs56
 Repo: https://ucsb-cs56-w20/lab02-tristanhernandez-cs56
